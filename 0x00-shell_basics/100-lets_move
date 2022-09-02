@@ -1,2 +1,2 @@
-#!/bin/bash
-mv . [[:upper:]]*.html /tmp/u
+i#!/bin/bash
+mv [A-Z]*.html/tmp/u
